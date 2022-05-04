@@ -1,2 +1,2 @@
 # Image_Filters
-A script for appyling for filters on images 
+A script for appyling four filters on images 
